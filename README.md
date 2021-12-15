@@ -1,5 +1,5 @@
 # jupyter-notebook-barcode-scanning
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mU3HHDW-RXprOF4D9g7MemO4-CYLDRW6?usp=sharing)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zE67nxEGmHxhK1Q0oHGQwDFQdE9SY2ns?usp=sharing)
 
 The Jupyter notebook demonstrates how to scan barcode images using [Dynamsoft Barcode Reader](https://www.dynamsoft.com/barcode-reader/programming/python/?ver=latest).
 
